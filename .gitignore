@@ -1,0 +1,16 @@
+# Build directory
+build/
+
+# Visual Studio files
+"tic\.vs"
+.vs/
+*.user
+*.filters
+*.vcxproj
+*.sln
+tic.VC.db
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+*.cmake
